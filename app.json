@@ -17,13 +17,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kamal.employee"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "android": {
       "package": "com.kamal.employee"
-    }
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
   }
 }
