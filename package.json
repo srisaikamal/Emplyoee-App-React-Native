@@ -35,7 +35,7 @@
     "babel-preset-expo": "~8.1.0",
     "jest": "~25.2.6",
     "react-test-renderer": "~16.9.0",
-    "sharp": "^0.25.4"
+    "sharp": "^0.30.5"
   },
   "private": true,
   "name": "EmployeeApp",
